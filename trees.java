@@ -10,3 +10,11 @@ public class Node {
   public Node(int value){
     this(value, null, null);
   }
+
+  public void insert(int x) {
+
+  }
+
+  public void delete(int x) {
+
+  }
