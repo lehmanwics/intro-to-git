@@ -5,4 +5,6 @@ public interface MyQueue{
   
   public int peek();
   
+  public dequeu(int value);
+  
 }
